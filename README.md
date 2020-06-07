@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1 ylzh Test 1
 ## Header 2 ylzh 中文测试
 ### Header 3 ylzh https://yilinzhaohenan.github.io/homepage/
+# Link Test http://github.com - automatic![GitHub](http://github.com)
 
 - Bulleted
 - List
