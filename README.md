@@ -14,7 +14,6 @@ Syntax highlighted code block
 # Header 1 ylzh Test 1
 ## Header 2 ylzh 中文测试
 ### Header 3 ylzh https://yilinzhaohenan.github.io/homepage/
-# Link Test [GitHub homepage](https://yilinzhaohenan.github.io/homepage/)
 
 - Bulleted
 - List
@@ -28,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+ylzh Link Test [GitHub homepage](https://yilinzhaohenan.github.io/homepage/)
 
 ### Jekyll Themes
 
